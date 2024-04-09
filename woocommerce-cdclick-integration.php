@@ -3,7 +3,7 @@
 Plugin Name: CD CLICK on demand
 Description: Integrates WooCommerce with CDClick API for on-demand printing.
 Version: 1.0
-Author: Matteo Russo
+Author: CD CLICK
 */
 
 // Add settings page to WooCommerce menu
